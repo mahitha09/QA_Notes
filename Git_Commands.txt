@@ -1,4 +1,4 @@
-Git Commands
+Git Commands :
 git init
 git status (red)
 git add filename -> staging area
@@ -7,5 +7,19 @@ git commit -m "Added Git Notes"
 git remote add origin https://github.com/mahitha09/QA_Notes.git - declaring the origin branch
 git push origin master
 
-Pull
-mahitha praneeth is cnf
+Pull :
+git pull origin master/branch_name
+
+Clone :
+git clone URL
+
+Branch :
+git branch branch_name
+git branch
+git checkout branch_name
+
+
+
+
+
+
