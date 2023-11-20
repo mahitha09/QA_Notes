@@ -1,3 +1,0 @@
-Cloning_File: 
-
-git clone <url>
