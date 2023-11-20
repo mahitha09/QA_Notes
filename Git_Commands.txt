@@ -8,4 +8,4 @@ git remote add origin https://github.com/mahitha09/QA_Notes.git - declaring the 
 git push origin master
 
 Pull
-mahitha
+mahitha praneeth is cnf
